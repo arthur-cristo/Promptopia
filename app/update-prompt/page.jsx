@@ -70,4 +70,4 @@ const UpdatePromptPage = () => (
     </Suspense>
 );
 
-export default UpdatePrompt
+export default UpdatePromptPage
